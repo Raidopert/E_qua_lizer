@@ -16,9 +16,14 @@
 
 ## Как запустить
 
-**Вариант 1 — просто открыть файл.** Скачай `index.html` и открой его двойным кликом — всё работает локально.
+**Вариант 1 — установить программу:**
+- **Windows:** [MUZSTUDIO-Setup-0.1.0.exe](https://github.com/Raidopert/E_qua_lizer/releases/download/v0.1.0/MUZSTUDIO-Setup-0.1.0.exe) (~82 МБ, Electron-обёртка с ярлыками и деинсталлятором)
+- **Android:** [MuzStudio-0.1.0.apk](https://github.com/Raidopert/E_qua_lizer/releases/download/v0.1.0/MuzStudio-0.1.0.apk) (~83 КБ, WebView-обёртка, Android 7.0+)
+- Все версии и исходники — на странице [Releases](https://github.com/Raidopert/E_qua_lizer/releases)
 
-**Вариант 2 — GitHub Pages.** В настройках репозитория: *Settings → Pages → Deploy from branch → main → / (root)*. Страница будет доступна по адресу `https://<имя-пользователя>.github.io/music-studio/`.
+**Вариант 2 — просто открыть файл.** Скачай `index.html` и открой его двойным кликом — всё работает локально.
+
+**Вариант 3 — GitHub Pages.** Страница уже включена: `https://raidopert.github.io/E_qua_lizer/` (или включи сам: *Settings → Pages → Deploy from branch → main → / (root)*).
 
 > Браузер спросит доступ к микрофону при первой записи — нажми «Разрешить». Для `file://` записи микрофон работает в Chrome и Edge; для гарантированной работы на телефоне удобнее открыть страницу по HTTPS (GitHub Pages это даёт автоматически).
 

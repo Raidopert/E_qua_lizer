@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Фон интерфейса МузСтудии (тёмная тема, переменная bg из index.html) -->
+    <color name="boot_bg">#0A0A0C</color>
+</resources>

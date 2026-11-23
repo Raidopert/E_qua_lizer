@@ -1,3 +1,5 @@
 .DS_Store
 Thumbs.db
 *.log
+desktop-build/
+android-build/
